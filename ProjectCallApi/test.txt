@@ -1,0 +1,15 @@
+﻿xong video 102 tiep theo la video 103
+server json server
+run server bằng cách mở file db.json
+tới thư mục products-api 
+json-server --watch db.json
+test thử ở postman 
+
+componentDidMount()
+được gọi khi component reder xong thường dùng để gọi API
+
+componentWillReceiveProps()
+được gọi khi nhật được 1 cái Props()
+cụ thể là nhận Prop từ stort
+
+đối tượng match trog react_router dùng để lấy tham số trên thanh url

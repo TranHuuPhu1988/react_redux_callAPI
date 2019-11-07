@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 16,
+      "name": "OppoNer",
+      "price": "2999999",
+      "status": true
+    },
+    {
+      "id": 17,
+      "name": "Nhi Hon Go No Hon",
+      "price": "230000000",
+      "status": ""
+    },
+    {
+      "id": 18,
+      "name": "LapTop Usus",
+      "price": "111111111111",
+      "status": ""
+    }
+  ]
+}
